@@ -84,7 +84,7 @@ streamlit run src/dashboard.py
 * AI detection results
 * Interactive dashboard
 
-(👉 Add screenshots here)
+<img width="1900" height="865" alt="image" src="https://github.com/user-attachments/assets/7a884905-15ec-4d55-be4d-55777d4be105" />
 
 ---
 
